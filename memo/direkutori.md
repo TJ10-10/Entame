@@ -1,20 +1,24 @@
 /Entame/
 │
+├── memo/
+│   ├── direktori.md - [✅]
+│   └─── git.md  - [✅]
+│
 ├── 00_thought/
-│   ├── value_os.md          - [✅]
-│   ├── manifesto.md         - [✅]
-│   ├── narrative.md         - [✅]
+│   ├── value_os.md - [✅]
+│   ├── manifesto.md - [✅]
+│   ├── narrative.md - [✅]
 │   └── trauma_fear_notes.md
 │
 ├── 01_design/
-│   ├── lean_canvas.md       - [✅]
-│   ├── persona.md           - [✅]
-│   ├── user_journey.md      - [✅]
-│   └── architecture.md      - [✅] 
+│   ├── lean_canvas.md - [✅]
+│   ├── persona.md - [✅]
+│   ├── user_journey.md - [✅]
+│   └── architecture.md - [✅] 
 │
 ├── 02_prototype/
-│   ├── figma_ui_wire.md     - [✅]
-│   ├── mvp_spec.md          - [✅]
+│   ├── figma_ui_wire.md - [✅]
+│   ├── mvp_spec.md - [✅]
 │   ├─── demo/
 │   │   ├── text_generation/ - [✅]
 │   │   │                ├── text_gen.py - [✅]
@@ -51,8 +55,9 @@
 │           │   └─── Header.tsx - [✅]
 │           └── layout - [✅]
 │               └── OnePaneLayout.tsx - [✅]
-└── 03_output_log/
-    ├── output_prototype.md
-    ├── daily_output/
-    └── commit_log.md
+└── 03_output_log/ -[✅]
+    ├── output_prototype.md - [✅]
+    ├── daily_output/ - [✅]
+    ├── commit_log.md - [✅]
+    └── .gitignore - [✅]
 
