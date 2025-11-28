@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ワンペインUI（レスポンシブ版）</title>
+<style>
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body, html {
+  height: 100%;
+}
+
+/* コンテナ */
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+/* メニュー */
+.menu {
+  width: 200px;
+  background-color: #2c3e50;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.menu button {
+  padding: 15px;
+  border: none;
+  background: none;
+  color: white;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.2s;
+}
+
+.menu button:hover, .menu button.active {
+  background-color: #34495e;
+}
+
+/* コンテンツ */
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #ecf0f1;
+  overflow-y: auto;
+}
+
+.content-section {
+  display: none;
+}
+
+.content-section.active {
+  display: block;
+}
+
+/* ハンバーガーボタン */
+.hamburger {
+  display: none;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #2c3e50;
+  z-index: 1000;
+}
+
+/* レスポンシブ */
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    transform: translateX(-100%);
+    z-index: 999;
+  }
+
+  .menu.show {
+    transform: translateX(0);
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .content {
+    padding: 60px 20px 20px 20px; /* ハンバーガー用の余白 */
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="hamburger">&#9776;</div>
+
+<div class="container">
+  <div class="menu">
+    <button class="active" data-target="home">ホーム</button>
+    <button data-target="about">アバウト</button>
+    <button data-target="contact">コンタクト</button>
+  </div>
+  <div class="content">
+    <div id="home" class="content-section active">
+      <h1>ホーム</h1>
+      <p>これはワンペインUIのホーム画面です。</p>
+    </div>
+    <div id="about" class="content-section">
+      <h1>アバウト</h1>
+      <p>このUIはHTML/CSS/JSだけで作られています。</p>
+    </div>
+    <div id="contact" class="content-section">
+      <h1>コンタクト</h1>
+      <p>お問い合わせはこちら。</p>
+    </div>
+  </div>
+</div>
+
+<script>
+const buttons = document.querySelectorAll('.menu button');
+const sections = document.querySelectorAll('.content-section');
+const hamburger = document.querySelector('.hamburger');
+const menu = document.querySelector('.menu');
+
+// メニュー切替
+buttons.forEach(button => {
+  button.addEventListener('click', () => {
+    // メニューのアクティブ状態切替
+    buttons.forEach(btn => btn.classList.remove('active'));
+    button.classList.add('active');
+
+    // コンテンツ切替
+    const target = button.getAttribute('data-target');
+    sections.forEach(sec => {
+      sec.classList.remove('active');
+      if (sec.id === target) sec.classList.add('active');
+    });
+
+    // モバイルではメニューを閉じる
+    if(window.innerWidth <= 768) {
+      menu.classList.remove('show');
+    }
+  });
+});
+
+// ハンバーガークリックでメニュー表示/非表示
+hamburger.addEventListener('click', () => {
+  menu.classList.toggle('show');
+});
+</script>
+
+</body>
+</html>
+
