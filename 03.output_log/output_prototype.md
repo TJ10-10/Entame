@@ -3,7 +3,6 @@
 ---
 
 ## 未完了
-- [ ] Vercel にデプロイをする
 - [ ] README.md (プロジェクトの説明、セットアップ方法、思想的背景)を書く
 
 ---
@@ -44,3 +43,7 @@
 - [✅] figma_next.js_tailwind_css_one_pane_ui/components/ui/SpeechBubble.tsx
 - [✅] figma_next.js_tailwind_css_one_pane_ui/components/ui/Header.tsx
 - [✅] figma_next.js_tailwind_css_one_pane_ui/layout/OnePaneLayout.tsx
+
+
+## 2025-11-28
+- [✅] Vercel にデプロイをする
