@@ -4,7 +4,6 @@
 
 ## 未完了
 
-- [ ] 02_prototype/mvp_components_plan.md （Next.jsで実装する3コンポーネントの確定）
 
 ---
 
@@ -57,3 +56,4 @@
 - [✅] Entame の ロードマップ（6ヶ月版）作成
 - [✅] 00_thought/entame_thought_summary.md （思想の核を1枚に圧縮）
 - [✅] 01_design/ui_spec_mvp.md （Figmaの最終仕様を文章化）
+- [✅] 02_prototype/mvp_components_plan.md （Next.jsで実装する3コンポーネントの確定）

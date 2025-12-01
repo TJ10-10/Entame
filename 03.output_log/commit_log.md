@@ -9,3 +9,4 @@
 ## 2025-12-01: entame_6month.md を書いた
 ## 2025-12-01: entame_thought_summary.md を書いた
 ## 2025-12-01: ui_spec_mvp.md を書いた
+## 2025-12-01: mvp_components_plan.md を書いた
