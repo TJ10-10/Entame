@@ -13,3 +13,4 @@
 ## 2025-12-01: vision_mission_value.md を書いた
 ## 2025-12-01: README.md を修正した
 ## 2025-12-01: one_pane_ui_final.md を書いた
+## 2025-12-01: namida_mode_spec.md を書いた

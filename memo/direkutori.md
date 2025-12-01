@@ -19,7 +19,8 @@
 │   ├── architecture.md - [✅]
 │   ├── roadmap/
 │   │   └── entame6month.md - [✅]
-│   └── ui_spec_mvp.md - [✅]
+│   ├── ui_spec_mvp.md - [✅]
+│   └── one_pane_ui_final.md - [✅]
 │
 ├── 02_prototype/
 │   ├── figma_ui_wire.md - [✅]
@@ -60,7 +61,8 @@
 │   │       │   └─── Header.tsx - [✅]
 │   │       └── layout - [✅]
 │   │           └── OnePaneLayout.tsx - [✅]
-│   └── mvp_component_plan.md - [✅]
+│   ├── mvp_component_plan.md - [✅]
+│   └── namida_mode_spec.md - [✅]
 └── 03_output_log/ -[✅]
     ├── output_prototype.md - [✅]
     ├── daily_output/ - [✅]
