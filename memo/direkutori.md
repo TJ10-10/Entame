@@ -1,20 +1,24 @@
 /Entame/
 │
+├── README.md -[✅]
 ├── memo/
 │   ├── direktori.md - [✅]
-│   └─── git.md  - [✅]
-│
+│   ├─── git.md  - [✅]
+│   └─── one_pane_minimum_os.md  - [✅]
 ├── 00_thought/
 │   ├── value_os.md - [✅]
 │   ├── manifesto.md - [✅]
 │   ├── narrative.md - [✅]
-│   └── trauma_fear_notes.md
+│   └── entame_thought_summary.md - [✅]
 │
 ├── 01_design/
 │   ├── lean_canvas.md - [✅]
 │   ├── persona.md - [✅]
 │   ├── user_journey.md - [✅]
-│   └── architecture.md - [✅] 
+│   ├── architecture.md - [✅]
+│   ├── roadmap/
+│   │   └── entame6month.md - [✅]
+│   └── ui_spec_mvp.md - [✅]
 │
 ├── 02_prototype/
 │   ├── figma_ui_wire.md - [✅]
@@ -60,4 +64,5 @@
     ├── daily_output/ - [✅]
     ├── commit_log.md - [✅]
     └── .gitignore - [✅]
+
 

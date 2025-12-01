@@ -3,7 +3,8 @@
 ---
 
 ## 未完了
-- [ ] Entame の ロードマップ（6ヶ月版）作成
+
+- [ ] 02_prototype/mvp_components_plan.md （Next.jsで実装する3コンポーネントの確定）
 
 ---
 
@@ -53,3 +54,6 @@
 ## 2025-12-01
 - [✅] minimum_root_one_pane.md を書いた
 - [✅] Commit Log / Daily Output を自動で回すテンプレ化
+- [✅] Entame の ロードマップ（6ヶ月版）作成
+- [✅] 00_thought/entame_thought_summary.md （思想の核を1枚に圧縮）
+- [✅] 01_design/ui_spec_mvp.md （Figmaの最終仕様を文章化）
