@@ -3,7 +3,6 @@
 ---
 
 ## 未完了
-- [ ] Commit Log / Daily Output を自動で回すテンプレ化
 - [ ] Entame の ロードマップ（6ヶ月版）作成
 
 ---
@@ -53,3 +52,4 @@
 
 ## 2025-12-01
 - [✅] minimum_root_one_pane.md を書いた
+- [✅] Commit Log / Daily Output を自動で回すテンプレ化
