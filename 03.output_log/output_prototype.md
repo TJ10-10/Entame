@@ -4,6 +4,8 @@
 
 ## 未完了
 
+- [ ] UIの「最終ミニ設計書」を A4 1 枚に落とす(Markdown)
+- [ ] プロトタイプを“Namida mode”として統一
 
 ---
 
@@ -58,3 +60,4 @@
 - [✅] 01_design/ui_spec_mvp.md （Figmaの最終仕様を文章化）
 - [✅] 02_prototype/mvp_components_plan.md （Next.jsで実装する3コンポーネントの確定）
 - [✅] 00_thought/vision_mission_value.md を書いた。
+- [✅] 「思想 → UI → 体験」 が一気通貫で読める 1 本の README を仕上げる
