@@ -4,7 +4,6 @@
 
 ## 未完了
 
-- [ ] 04_system/api_design.md の作成
 - [ ] 05_release/alpha_test_plan.md の作成
 
 ---
@@ -66,3 +65,4 @@
 
 ## 2025-12-02
 - [✅] 04_system/llm_style_guide.md の作成
+- [✅] 04_system/api_design.md の作成

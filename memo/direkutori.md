@@ -69,7 +69,8 @@
 │   ├── commit_log.md - [✅]
 │   └── .gitignore - [✅]
 ├── 04_system/ -[✅]
-    └── llm_style_guide.md - [✅]
+│   ├── llm_style_guide.md - [✅]
+│   └── api_design.md - [✅]
 └── 05_release/ -[ ]
 
 
