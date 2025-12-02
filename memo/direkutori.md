@@ -63,10 +63,13 @@
 │   │           └── OnePaneLayout.tsx - [✅]
 │   ├── mvp_component_plan.md - [✅]
 │   └── namida_mode_spec.md - [✅]
-└── 03_output_log/ -[✅]
-    ├── output_prototype.md - [✅]
-    ├── daily_output/ - [✅]
-    ├── commit_log.md - [✅]
-    └── .gitignore - [✅]
+├── 03_output_log/ -[✅]
+│   ├── output_prototype.md - [✅]
+│   ├── daily_output/ - [✅]
+│   ├── commit_log.md - [✅]
+│   └── .gitignore - [✅]
+├── 04_system/ -[✅]
+    └── llm_style_guide.md - [✅]
+└── 05_release/ -[ ]
 
 

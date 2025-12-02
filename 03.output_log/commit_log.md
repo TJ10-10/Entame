@@ -14,3 +14,4 @@
 ## 2025-12-01: README.md を修正した
 ## 2025-12-01: one_pane_ui_final.md を書いた
 ## 2025-12-01: namida_mode_spec.md を書いた
+## 2025-12-02: 04_system/llm_style_guide.md を書いた

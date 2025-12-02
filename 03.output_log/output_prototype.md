@@ -4,6 +4,8 @@
 
 ## 未完了
 
+- [ ] 04_system/api_design.md の作成
+- [ ] 05_release/alpha_test_plan.md の作成
 
 ---
 
@@ -61,3 +63,6 @@
 - [✅] 「思想 → UI → 体験」 が一気通貫で読める 1 本の README を仕上げる
 - [✅] UIの「最終ミニ設計書」を A4 1 枚に落とす(Markdown)
 - [✅] プロトタイプを“Namida mode”として統一
+
+## 2025-12-02
+- [✅] 04_system/llm_style_guide.md の作成
