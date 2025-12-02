@@ -73,6 +73,7 @@
 │   └── api_design.md - [✅]
 └── 05_release/ -[✅]
     ├── alpha_test_plan.md - [✅]
-    └── release_motive_to_six.md - [✅]
+    ├── release_motive_to_six.md - [✅]
+    └── release_message_to_six.md - [✅]
 
 

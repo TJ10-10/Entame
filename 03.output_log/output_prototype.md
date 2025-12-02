@@ -68,3 +68,4 @@
 - [✅] 04_system/api_design.md の作成
 - [✅] 05_release/alpha_test_plan.md の作成
 - [✅] 05_release/release_motive_to_six.md を追加
+- [✅] 05_release/release_message_to_six.md
