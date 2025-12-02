@@ -72,6 +72,7 @@
 │   ├── llm_style_guide.md - [✅]
 │   └── api_design.md - [✅]
 └── 05_release/ -[✅]
-    └── alpha_test_plan.md - [✅]
+    ├── alpha_test_plan.md - [✅]
+    └── release_motive_to_six.md - [✅]
 
 

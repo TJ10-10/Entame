@@ -17,3 +17,4 @@
 ## 2025-12-02: 04_system/llm_style_guide.md を書いた
 ## 2025-12-02: 04_system/api_design.md を書いた
 ## 2025-12-02: 05_release/alpha_test_plan.md を書いた
+## 2025-12-02: 05_release/release_motive_to_six.md を書いた

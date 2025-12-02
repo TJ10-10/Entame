@@ -3,7 +3,8 @@
 ---
 
 ## 未完了
-
+- [ ] Note で「なぜEntame プロジェクトを始めたのか」を書く
+- [ ] X で告知をする
 
 ---
 
@@ -66,3 +67,4 @@
 - [✅] 04_system/llm_style_guide.md の作成
 - [✅] 04_system/api_design.md の作成
 - [✅] 05_release/alpha_test_plan.md の作成
+- [✅] 05_release/release_motive_to_six.md を追加
