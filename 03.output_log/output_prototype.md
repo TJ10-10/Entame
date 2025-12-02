@@ -3,8 +3,6 @@
 ---
 
 ## 未完了
-- [ ] Note で「なぜEntame プロジェクトを始めたのか」を書く
-- [ ] X で告知をする
 
 ---
 
@@ -69,3 +67,5 @@
 - [✅] 05_release/alpha_test_plan.md の作成
 - [✅] 05_release/release_motive_to_six.md を追加
 - [✅] 05_release/release_message_to_six.md
+- [✅] Note で「なぜEntame プロジェクトを始めたのか」を書く
+- [✅] Xで告知をする
