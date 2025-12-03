@@ -69,3 +69,6 @@
 - [✅] 05_release/release_message_to_six.md
 - [✅] Note で「なぜEntame プロジェクトを始めたのか」を書く
 - [✅] Xで告知をする
+
+## 2025-12-03
+- [✅] 顧客開発を進めるためのNoteを書く

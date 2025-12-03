@@ -21,4 +21,4 @@
 ## 2025-12-02: 05_release/release_message_to_six.md を書いた
 ## 2025-12-02: Note を書いて投稿した
 ## 2025-12-02: X に NoteのURLを貼って告知をした
-
+## 2025-12-03: customer_note.mdを書いてNoteに投稿した
